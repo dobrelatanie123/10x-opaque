@@ -1,7 +1,7 @@
 # Dokument wymagań produktu (PRD) - Regulamin Analyzer
 
 ## 1. Przegląd produktu
-Regulamin Analyzer to aplikacja webowa umożliwiająca użytkownikom wklejenie URL do regulaminu, która następnie analizuje dokument za pomocą LLM. System identyfikuje potencjalne zagrożenia, takie jak przekazywanie danych, ukryte koszty, ryzyko prawne, szczegóły dotyczące udostępniania danych oraz informacje o możliwości usunięcia konta i danych. Wyniki analizy są oceniane na stałej skali 0–10, a pełny raport jest przechowywany w historii analiz wraz z datą wykonania oraz datą obowiązywania regulaminu. Dodatkowo, interfejs użytkownika oferuje elementy objaśniające wyniki (np. tooltipy).
+Opaque to aplikacja webowa umożliwiająca użytkownikom wklejenie URL do regulaminu, która następnie analizuje dokument za pomocą LLM. System identyfikuje potencjalne zagrożenia, takie jak przekazywanie danych, ukryte koszty, ryzyko prawne, szczegóły dotyczące udostępniania danych oraz informacje o możliwości usunięcia konta i danych. Wyniki analizy są oceniane na stałej skali 0–10, a pełny raport jest przechowywany w historii analiz wraz z datą wykonania oraz datą obowiązywania regulaminu. Dodatkowo, interfejs użytkownika oferuje elementy objaśniające wyniki (np. tooltipy).
 
 ## 2. Problem użytkownika
 Użytkownicy nie czytają regulaminów, gdyż są one zbyt długie i napisane skomplikowanym językiem. W efekcie akceptują zapisy, które mogą negatywnie wpłynąć na ich prywatność i finanse, jak przekazywanie danych, ukryte koszty oraz ryzyko prawne. Brak przejrzystości skutkuje nieświadomą zgodą na niekorzystne warunki.
